@@ -1,17 +1,17 @@
 ---
 name: fintech-ad-design
-description: Recreate editable financial advertising images from supplied references across apps, countries, and languages. Use for faithful recreation, layout refinement, project-specific copy and repayment replacement, and learning confirmed design standards. Current scope is reference-based work; original concepts are a future teaching phase.
+description: Create editable financial advertising images across apps and markets from supplied references or campaign performance feedback. Use for recreation, layout and copy adaptation, repayment examples, funnel diagnosis, and testable creative improvements.
 ---
 
 # Fintech Ad Design
 
-版本：2.0.0 · 更新：2026-10-26  
-当前阶段：复刻、排版、作图规范。
+版本：2.1.0 · 更新：2026-10-29  
+当前阶段：复刻、排版、作图规范，以及根据投放数据反馈制作改进新图。
 
 ## 工作范围
 
 保留参考图的表达逻辑，再替换当前项目的品牌、文案与数据。不要把不同原图统一简化成一种模板。
-当前只沉淀复刻、排版和作图规范；用户后续教学并确认后，再加入创新与新图制作方法。当前用户明确的新要求优先，旧范围不是拒绝已授权任务的理由。
+支持在已有素材与真实投放反馈基础上，提出改进假设并生产新的可测试版本。无参考、无反馈的独立创意策划继续按用户后续教学扩展；当前明确的新要求优先，旧阶段不是拒绝已授权任务的理由。
 
 将通用规则和项目事实分开。技能不默认某个品牌、国家、语言、币种、利率、金额范围或借款期限。
 用中文与本项目用户沟通；广告语言以项目资料为准，不把英语设为所有地区默认语言。
@@ -35,6 +35,14 @@ description: Recreate editable financial advertising images from supplied refere
 
 保留划线改写、前后对比、档位、步骤、通知框、人物等原图机制。不为统一格式而删掉表达重点。
 抠图、圆角Logo、间距与字号调整服务于原图表达，不能改坏品牌图形或构图。
+
+## 根据数据反馈制作新图
+
+收到投放报表、素材表现截图或“按数据优化/生产新图”的请求时，读取 [数据分析与改进新图](references/performance-iteration.md)。
+先将数据行与原素材对应，核对统计口径，再区分事实、原因假设和需要补充的证据。
+以用户的业务目标判断结果，不把高点击率直接等同于好素材，也不把审批结果直接归因于画面。
+给出每张图的主要问题、保留内容、改动方案和测试指标。用户要求先分析时，先交付方案；已有执行授权时继续制作，不重复询问。
+改进版沿用适用的项目参数与可编辑规范；每个版本保留来源和测试记录，等待回传数据验证效果。
 
 ## 文案资料
 

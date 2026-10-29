@@ -1,4 +1,4 @@
 interface:
   display_name: "Fintech Ad Design"
-  short_description: "复刻金融广告、优化排版，并按不同产品与地区核算和替换文案数据"
-  default_prompt: "使用 $fintech-ad-design 按参考图复刻可编辑金融广告，核对项目参数，并沉淀本次确认的作图规范。"
+  short_description: "复刻金融广告、优化排版，并根据投放数据诊断问题和制作可测试的新图"
+  default_prompt: "使用 $fintech-ad-design，根据参考图或投放反馈分析问题、提出改进方案，并按当前项目参数制作可编辑金融广告。"
